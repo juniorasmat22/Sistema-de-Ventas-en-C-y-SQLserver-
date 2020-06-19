@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conexión\Conexion.cs" />
     <Compile Include="Modulos\Usuarios.cs">
       <SubType>Form</SubType>
     </Compile>
